@@ -1,0 +1,44 @@
+card_image: 'https://sample.memexdata.com/universe_images/remotion_card.png'
+created_at: 2025-02-17 08:24:47.753085
+creator_id: unknown
+deployment:
+  last_deployed: null
+  type: null
+  url: ''
+description: Create real MP4 videos with Remotion. Parametrize content, render server-side and bu
+ild applications.
+domain: ''
+features:
+- ''
+getting_started_screen: false
+getting_started_screen_index: 0
+git:
+  branch: null
+  remote: null
+  url: ''
+hero_image: ''
+icon: ''
+is_published: false
+pills:
+- icon: ''
+  label: ''
+  prompt: ''
+project_id: ''
+published_at: null
+requirements:
+- description: ''
+  type: ''
+slug: ''
+storage:
+  compression_enabled: null
+  gcs_path: null
+  last_sync: null
+  max_file_size_mb: null
+  size_bytes: null
+title: Make videos programmatically.
+tools:
+- name: ''
+  role: ''
+  type: ''
+  version: ''
+updated_at: 2025-02-17 08:24:47.753102
