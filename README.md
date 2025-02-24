@@ -18,7 +18,7 @@ Here are some ideas of visualizations you can ask Memex to generate for you once
 
 Just ask Memex to run this app locally and it will take care of the rest! If you run into any errors, just point Memex to fix them.
 
-If you’d like to set up the environment and dependencies manually, follow the steps at the bottom
+If you’d like to set up the environment and dependencies manually, follow the steps at the bottom of this page.
 
 ## Development
 
