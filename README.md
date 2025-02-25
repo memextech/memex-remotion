@@ -22,7 +22,7 @@ If you’d like to set up the environment and dependencies manually, follow the 
 
 ## Development
 
-See Rules for AI (rendered from .memex/rules.md) for detailed development guidelines Memex will follow, including:
+See Rules for AI (rendered from `.memex/rules.md`) for detailed development guidelines Memex will follow, including:
 - Complete setup instructions
 - Model-specific parameters
 - Error handling
